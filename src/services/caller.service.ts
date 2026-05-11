@@ -1,4 +1,4 @@
-typeDb = {
+type Db = {
   findById: (id: string) => Promise<any>;
 };
 
